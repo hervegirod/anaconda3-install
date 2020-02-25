@@ -13,5 +13,6 @@ To update with python packages packages for Anaconda, unzip the various LibsUpda
  - 20/08/2019 : Release of LibsUpdates3, containing the English language model
  - 25/01/2020 : Release of LibsUpdates4, containing tensorflow
  - 18/02/2020 : Update of LibsUpdates, containing the updated 0.23 version of owlready2
+ - 25/02/2020 : Release of LibsUpdates2, adding rdfextras 0.4
 
  
